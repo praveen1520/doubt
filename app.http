@@ -1,0 +1,3 @@
+GET https://localhost:3001/movies/
+###
+POST https://localhost:3001/movies/
